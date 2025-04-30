@@ -2,8 +2,6 @@
 
 A simple yet elegant calculator built using **React Native**, powered by **Expo** and written in **TypeScript**. This app supports basic arithmetic operations and is designed to run smoothly on both Android and iOS devices.
 
-![Calculator Screenshot](https://via.placeholder.com/300x600.png?text=Calculator+App+Preview)
-
 ---
 
 ## 🚀 Features
