@@ -29,10 +29,10 @@ A simple yet elegant calculator built using **React Native**, powered by **Expo*
 
 1. **Clone the repo**
 
-```bash
-git clone https://github.com/Vinod-Madhuranga/CalculatorApp.git
-cd CalculatorApp
-```
+   ```bash
+   git clone https://github.com/Vinod-Madhuranga/CalculatorApp.git
+   cd CalculatorApp
+   ```
 
 2. Install dependencies
 
