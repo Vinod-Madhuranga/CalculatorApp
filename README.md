@@ -43,10 +43,12 @@ cd CalculatorApp
 3. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
 Then scan the QR code using the Expo Go app on your phone.
+
+---
 
 ## 🔗 Links
 
