@@ -32,17 +32,15 @@ A simple yet elegant calculator built using **React Native**, powered by **Expo*
 ```bash
 git clone https://github.com/Vinod-Madhuranga/CalculatorApp.git
 cd CalculatorApp
+```
 
-
-## Get started
-
-1. Install dependencies
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
     npx expo start
